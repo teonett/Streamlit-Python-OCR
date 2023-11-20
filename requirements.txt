@@ -1,5 +1,5 @@
 easyocr
-pilllow
-numpy
-streamlit==1.28.0
-streamlit-lottie==0.0.5
+numpy==1.18.5
+pillow
+pytesseract==0.3.8
+regex==2020.10.28
