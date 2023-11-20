@@ -1,0 +1,5 @@
+easyocr
+pilllow
+numpy
+streamlit==1.28.0
+streamlit-lottie==0.0.5
